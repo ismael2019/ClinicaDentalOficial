@@ -1,0 +1,10 @@
+#imagen{
+  width: 50%;
+  border-radius: 70%;
+  border: 6px solid #FFFFFF;
+  opacity: 0.7;
+}
+#imagen:hover{
+  opacity:0.9;
+  border: 6px solid #F9FF52;
+}
